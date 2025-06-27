@@ -30,13 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 📬 Contact Me
 - Email: thanyaphong63@gmail.com
 
